@@ -1,0 +1,23 @@
+1.True
+2.8
+3.1200
+5.Fine tree with default settings
+6.RUSBoosted tree ensemble with default settings
+
+1.74.8
+
+3.82.1
+4.79.9
+5.Distribution of observations
+Training time
+6.Split the Test and Training sets
+
+Split the Training and Validation sets
+
+Preprocess the Training and Validation sets
+
+Oversample the Training set
+7.
+Replacing parts of the supervised learning workflow that require lots of trial and error.
+8.
+All of the above.

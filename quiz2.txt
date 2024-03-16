@@ -1,0 +1,21 @@
+Detect the language spoken in a sound recording
+Predict the winning country for the next World Cup.
+Determine the species from a photograph of a bird.
+
+6
+
+0.57
+
+0.08
+
+KNN
+
+False
+
+Recall of the class Needs maintenance
+
+81.1
+
+Logistic Regression
+
+Linear SVM
